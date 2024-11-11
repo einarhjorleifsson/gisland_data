@@ -1,0 +1,62 @@
+gr,g2,nr,breidd,lengd,svaedi,nafn
+4,I,1,645000,222575,Faxaflói,NA
+4,I,2,643240,215140,Faxaflói,NA
+4,I,3,642600,220000,Faxaflói,NA
+4,I,4,642500,222000,Faxaflói,NA
+4,I,5,643600,223400,Faxaflói,NA
+4,I,6,645000,223200,Faxaflói,NA
+4,II,1,650480,224340,Breiðafjörður,Stykkishólmur
+4,II,2,651745,222190,Breiðafjörður,Skarðsstöð
+4,II,3,652545,221245,Breiðafjörður,Reykhólar
+4,III,1,653280,242940,Rauðisandur,NA
+4,III,2,652830,235600,Rauðisandur,NA
+4,III,3,652650,235760,Rauðisandur,NA
+4,III,4,652750,240700,Rauðisandur,NA
+4,III,5,652900,241600,Rauðisandur,NA
+4,III,6,652800,242700,Rauðisandur,NA
+4,III,7,652900,243500,Rauðisandur,NA
+4,IV,1,653920,242934,Kollsvík,NA
+4,IV,2,653895,241840,Kollsvík,NA
+4,IV,3,653420,242200,Kollsvík,NA
+4,IV,4,653455,242714,Kollsvík,NA
+4,V,1,654875,241060,Tálknafjörður,NA
+4,V,2,654827,240467,Tálknafjörður,NA
+4,V,3,654534,240636,Tálknafjörður,NA
+4,V,4,654575,241250,Tálknafjörður,NA
+4,VI,1,662800,222800,Strandir (Selsker-Óðinsboði),NA
+4,VI,2,662300,214200,Strandir (Selsker-Óðinsboði),NA
+4,VI,3,661050,212800,Strandir (Selsker-Óðinsboði),NA
+4,VI,4,655830,214000,Strandir (Selsker-Óðinsboði),NA
+4,VII,1,655800,213770,Strandir (Reykjarfjörður-Veiðileysufjörður),NA
+4,VII,2,655925,212300,Strandir (Reykjarfjörður-Veiðileysufjörður),NA
+4,VII,3,655620,211950,Strandir (Reykjarfjörður-Veiðileysufjörður),NA
+4,VII,4,655600,213680,Strandir (Reykjarfjörður-Veiðileysufjörður),NA
+4,VIII,1,655320,211600,Strandir (út af Kaldbakshorni),NA
+4,VIII,2,655140,211450,Strandir (út af Kaldbakshorni),NA
+4,VIII,3,655020,211500,Strandir (út af Kaldbakshorni),NA
+4,VIII,4,654980,211800,Strandir (út af Kaldbakshorni),NA
+4,IX,1,654670,212400,Strandir (út af Bjarnarfirði),NA
+4,IX,2,654550,211400,Strandir (út af Bjarnarfirði),NA
+4,IX,3,654470,211400,Strandir (út af Bjarnarfirði),NA
+4,IX,4,654460,212100,Strandir (út af Bjarnarfirði),NA
+4,X,1,654550,205000,Húnaflói,NA
+4,X,2,654100,204200,Húnaflói,NA
+4,X,3,652100,205100,Húnaflói,NA
+4,X,4,651400,211000,Húnaflói,NA
+4,X,5,652900,211700,Húnaflói,NA
+4,XI,1,660640,202300,Skagatá,NA
+4,XI,2,660820,201020,Skagatá,NA
+4,XI,3,660685,201000,Skagatá,NA
+4,XI,4,660500,202325,Skagatá,NA
+4,XII,1,660220,195785,Skagafjörður (út af Ketubjörgum),NA
+4,XII,2,660220,195400,Skagafjörður (út af Ketubjörgum),NA
+4,XII,3,660110,195400,Skagafjörður (út af Ketubjörgum),NA
+4,XII,4,660120,195785,Skagafjörður (út af Ketubjörgum),NA
+4,XIII,1,660220,194340,Skagafjörður (við Drangey),NA
+4,XIII,2,660220,193900,Skagafjörður (við Drangey),NA
+4,XIII,3,655590,193460,Skagafjörður (við Drangey),NA
+4,XIII,4,655590,194200,Skagafjörður (við Drangey),NA
+4,XIV,1,660400,193680,Skagafjörður (á Málmeyjarsundi),NA
+4,XIV,2,660400,192240,Skagafjörður (á Málmeyjarsundi),NA
+4,XIV,3,660200,192600,Skagafjörður (á Málmeyjarsundi),NA
+4,XIV,4,660200,193550,Skagafjörður (á Málmeyjarsundi),NA

@@ -1,0 +1,104 @@
+gr,nafn,breidd,lengd,pt_name
+5.1,Faxaflói,640490,224140,Garðskagaviti
+5.1,Faxaflói,644370,234820,Malarrifsviti
+5.2,Faxaflói,640180,223340,Hólmbergsviti
+5.2,Faxaflói,641050,220540,Baujanr.6
+5.2,Faxaflói,642200,222300,NA
+5.2,Faxaflói,642600,221860,Þormóðssker
+5.3,Faxaflói,643960,222720,NA
+5.3,Faxaflói,644000,225000,NA
+5.3,Faxaflói,644800,225000,NA
+6.1,Vestfirðir,653841,241939,Blakknes
+6.1,Vestfirðir,654768,240660,Kópanesviti
+6.1,Vestfirðir,660050,234870,Fjallskagaviti
+6.2,Vestfirðir,660418,234670,Barði
+6.2,Vestfirðir,660708,233941,Sauðanesviti
+7.1,Patreksfjörður og Táknafjörður,654072,240173,Hvalvíkurnes
+7.1,Patreksfjörður og Táknafjörður,653885,240481,Tálkni
+7.1,Patreksfjörður og Táknafjörður,653658,240960,Ólafsviti
+7.2,Patreksfjörður og Táknafjörður,653474,235761,NA
+7.2,Patreksfjörður og Táknafjörður,653357,235810,NA
+8.1,Arnarfjörður,654617,233781,NA
+8.1,Arnarfjörður,654276,234062,NA
+8.2,Arnarfjörður,654617,233781,NA
+8.2,Arnarfjörður,654276,234062,NA
+9.1,Dýrafjörður,655500,233587,NA
+9.1,Dýrafjörður,655376,233819,NA
+9.2,Dýrafjörður,655377,233098,NA
+9.2,Dýrafjörður,655294,233098,NA
+10.1,Önundarfjörður,660435,233396,NA
+10.1,Önundarfjörður,660253,233548,NA
+10.2,Önundarfjörður,660344,233161,NA
+10.2,Önundarfjörður,660190,233280,NA
+11.A.1,Ísafjarðardjúp,660543,223955,Æðey
+11.A.1,Ísafjarðardjúp,660336,224059,Ögurhólmi
+11.A.2,Ísafjarðardjúp,655837,223038,NA
+11.A.2,Ísafjarðardjúp,655903,222388,NA
+11.C.1,Ísafjarðardjúp,661882,225363,NA
+11.C.1,Ísafjarðardjúp,661862,225013,NA
+11.C.2,Ísafjarðardjúp,662069,225054,NA
+11.C.2,Ísafjarðardjúp,662052,224955,NA
+11.E.1,Ísafjarðardjúp,661906,224564,NA
+11.E.1,Ísafjarðardjúp,661795,224261,NA
+11.F.1,Ísafjarðardjúp,661716,223700,Kvíar
+11.F.1,Ísafjarðardjúp,661469,223699,Höfðabót
+12,Ólafsfjörður,660726,183658,Bríkursker
+12,Ólafsfjörður,660562,183356,Æðasker
+13,Eyjafjörður,660109,181675,NA
+13,Eyjafjörður,660109,182403,réttvísandi austur/vestur um Hríseyjarvita
+14,Skjálfandafljói,660639,174932,Brík
+14,Skjálfandafljói,660977,171654,Stóristakkur
+15,Austfirðir,652182,134257,Landsendi(í norðanverðum Loðmundarfirði)
+15,Austfirðir,651625,133447,Dalatangi
+15,Austfirðir,651000,133080,Norðfjarðarhorn
+15,Austfirðir,650470,132960,Gerpisflös
+15,Austfirðir,644810,135030,Kambanesviti
+15,Austfirðir,644431,135674,Hlaða
+15,Austfirðir,643944,141521,Knararsundsfles(austan Djúpavogs)
+16.A,Þistilfjörður,661550,152010,Grenjanes
+16.A,Þistilfjörður,661609,154140,Rauðanes
+16.B,Þistilfjörður,662380,154230,Melrakkanes
+16.B,Þistilfjörður,662328,145033,Svínalækjartangi
+16.C,Þistilfjörður,661550,152010,Grenjanes
+16.C,Þistilfjörður,661150,152800,Laxártangi
+17.1,Bakkaflói,660243,145412,Skarfatangi
+17.1,Bakkaflói,660350,144390,Digranes
+17.2,Bakkaflói,660955,150104,Fossárós
+17.2,Bakkaflói,660578,150333,Saurbæjartangi
+17.2,Bakkaflói,660243,145412,Skarfatangi
+18.1,Vopnafjörður,654737,144590,Tangasporður
+18.1,Vopnafjörður,654517,144106,Drangsnes
+18.2,Vopnafjörður,655096,144297,Fuglanes
+18.2,Vopnafjörður,654745,141973,Svartsnes
+19,Borgarfjörður eystri,653410,134922,Landsendi
+19,Borgarfjörður eystri,653320,134387,Hafnartangi
+20,Loðmundarfjörður – Seyðisfjörður,652167,134333,NA
+20,Loðmundarfjörður – Seyðisfjörður,651995,134333,Borgarnes
+20,Loðmundarfjörður – Seyðisfjörður,651753,134200,Skálanes
+21,Mjóifjörður,651254,134363,Hof
+21,Mjóifjörður,651140,134323,Kross
+22,Eskifjörður,650360,135960,Mjóeyri
+22,Eskifjörður,650285,135974,Skeleyri
+23.1,Reyðarfjörður,650164,141000,Ljósá
+23.1,Reyðarfjörður,650084,141045,Handarhald sunnan fjarðarins
+23.2,Reyðarfjörður,645617,134112,Vattarnesviti
+23.2,Reyðarfjörður,645950,134112,NA
+24,Fáskrúðsfjörður,645375,135051,Víkursker
+24,Fáskrúðsfjörður,645444,134726,Kumlasker
+25,Stöðvarfjörður,644960,134960,Landatangi
+25,Stöðvarfjörður,644855,135018,Kambanes
+26,Berufjörður,644009,141572,Svartasker
+26,Berufjörður,644130,141370,Karlsstaðatangi
+27.F,Suðurland,634760,212300,NA
+27.F,Suðurland,634960,212300,NA
+27.F,Suðurland,634960,212500,NA
+27.F,Suðurland,635030,212610,NA
+27.F,Suðurland,635050,212720,NA
+27.F,Suðurland,634900,213360,NA
+27.F,Suðurland,634751,213300,NA
+27.F,Suðurland,634700,213460,NA
+27.F,Suðurland,634660,213510,NA
+28.B,Vestmannaeyjar,632200,202400,NA
+28.B,Vestmannaeyjar,632200,203000,NA
+28.B,Vestmannaeyjar,632600,202800,NA
+28.B,Vestmannaeyjar,632600,202200,NA
